@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Krypton-logo_new.svg"
+   inkscape:export-filename="Krypton_newlogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.81142606"
+     inkscape:cx="489.26208"
+     inkscape:cy="386.35683"
+     inkscape:window-width="1492"
+     inkscape:window-height="932"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#e6e6e6;stroke-width:0.784553"
+       d="M 11.204187,41.157822 H 103.8384 m 0,0 V 133.79203 H 11.204187 m 0,0 V 41.157822"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="rect1.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect1-5"
+       style="fill:#00d2ce;fill-opacity:1;stroke-width:0.784553"
+       d="m 196.47293,41.217302 h -92.63422 m 0,0 v 92.634208 h 92.63422 m 0,0 V 41.217302"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect1-5-2"
+       style="fill:#00a5d2;fill-opacity:1;stroke-width:0.784553"
+       d="M 11.313519,226.27231 H 103.9477 m 0,0 v -92.6342 H 11.313519 m 0,0 v 92.6342"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:1.02335"
+       id="rect2"
+       width="130.65646"
+       height="12.201622"
+       x="-99.364021"
+       y="222.2623"
+       transform="matrix(0.71651238,-0.69757437,0.74632919,0.665577,0,0)" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.717248"
+       id="rect2-7"
+       width="66.981026"
+       height="11.692047"
+       x="118.09053"
+       y="136.45116"
+       transform="matrix(0.97946521,0.20161323,-0.2258952,0.97415161,0,0)" />
+    <rect
+       style="opacity:0.66;fill:#049fd9;fill-opacity:1;stroke-width:0.70107"
+       id="rect2-7-6"
+       width="62.497337"
+       height="11.971982"
+       x="143.33594"
+       y="-111.54884"
+       transform="matrix(0.19682922,0.98043779,-0.98066677,0.19568515,0,0)" />
+  </g>
+</svg>
